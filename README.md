@@ -96,5 +96,5 @@ python Test.py
 > Update `model_folder` in `Test.py` to point to the run you want to evaluate.
 
 ## Citation
-
+### Accepted in SIU2026
 
